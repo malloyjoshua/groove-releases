@@ -3,6 +3,21 @@
     <channel>
         <title>Groove</title>
         <item>
+            <title>2.0.7</title>
+            <pubDate>Mon, 05 Oct 2026 13:45:55 -0400</pubDate>
+            <sparkle:version>2.0.7</sparkle:version>
+            <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove-2.0.7.zip" length="299453120" type="application/octet-stream" sparkle:edSignature="thX+iLie6EtxSWALEdEi4QMPRF+f1xS6EfkzEAsPzjOJCh+XQ3df28pQBGWj4e0xlHAe3YQEHdRq89KDwh1HCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.7-2.0.6.delta" sparkle:deltaFrom="2.0.6" length="414634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wub+05EIesmaFve4J9QP0S5ZLEAJHpwt9FiFBQ3Lz/8ZnXDneHHVz0p8jxq4lu8y3QwpIozC0eIXKXljuPRhCA=="/>
+                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.7-2.0.5.delta" sparkle:deltaFrom="2.0.5" length="437226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L4Kwm3qdebnzxHviv1wZYk0XREocaMQNo1rgwvPUQCboxoFEDJMvo7WZE8f0NcEOn4Y5DSkX/oLRRIqvLcZ8Dw=="/>
+                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.7-2.0.3.delta" sparkle:deltaFrom="2.0.3" length="482914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a/5w2Q62uglKBgAULtbBIY6LZZ5e79mJM6CuYXZOVZ3H64qU4pnjupvg0NGYYtKBiyLYnaHaxB7HARlzxS58DQ=="/>
+                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.7-2.0.2.delta" sparkle:deltaFrom="2.0.2" length="503910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LKTcsDqa/+NdCDvQubzDbqE/39AWBCcohjeJBNoV/hjeB9c/hWMdOVaGK0pwd10rvbQv8TzZ88yUQj+GA2rWDg=="/>
+                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.7-2.0.1.delta" sparkle:deltaFrom="2.0.1" length="504010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z5KbL1oiSmJcvPBL89p3zti7xG8sl/c1rBbUZ+fTcPwtAgXaNZVPJkeRq1dTvhn/d9n2AHWO6vqEvs0zehQlAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0.6</title>
             <pubDate>Wed, 02 Sep 2026 13:53:39 -0400</pubDate>
             <sparkle:version>2.0.6</sparkle:version>
@@ -29,20 +44,6 @@
                 <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.5-2.0.2.delta" sparkle:deltaFrom="2.0.2" length="314366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rme0iojCxKQyd8rhzp9/vnd9/WdVHsC9PTOD6Z98DIQpgVyJtbHQh96ubAytLe8zfzhocrM4vj8JFGCa0LAFDQ=="/>
                 <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.5-2.0.1.delta" sparkle:deltaFrom="2.0.1" length="314182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="khFNtNVrPX86/y4cv2m4DidJ8AQ6L84Re54pgl/H7ablVoXvRUft89TyzrR2CV8ZOlT+9l1+rCmCgAg1RaEDDA=="/>
                 <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.5-2.0.0.delta" sparkle:deltaFrom="2.0.0" length="330242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ivV0etYj5yEuZIFTAICjbnEdGBZQ/cw2eiFpZV/qJXXAHroa3+r1BZvkqjC9tWgWzC8zWAbE9VjaFgnVHAs6CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.0.4</title>
-            <pubDate>Tue, 01 Sep 2026 15:21:01 -0400</pubDate>
-            <sparkle:version>2.0.4</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove-2.0.4.zip" length="299363042" type="application/octet-stream" sparkle:edSignature="8MY8ZaMpwHpoh3VGrIpo7y7+4Ej7Vb87KBvF261c5LKeFeDppV8ftEWnAn2pzBCh/MrANl/7SdMe/GQ8W7drBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.4-2.0.3.delta" sparkle:deltaFrom="2.0.3" length="284626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZfxoSiCI+JsOJ6sQcWVNSAJQo9Kv2tRIMVwrr2FqncwDXMZ+ujpuiLeQsdlTai4vjf4c3nepPRmd3HbMRYuBQ=="/>
-                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.4-2.0.2.delta" sparkle:deltaFrom="2.0.2" length="314546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p4xiKrQ9TUGi7ZgmSiaV8odE1xHXcIEEGVmLiLGPPq0XcGhL5vVKOunaNbCnj22Wv3MmhmXHW+9Cjls0ZBBaBg=="/>
-                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.4-2.0.1.delta" sparkle:deltaFrom="2.0.1" length="314154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eBp9qP2UQWXJsp/hzCWxfkT5Kus0cq49NAFjLdS1e9BtsvfdjTN3Ue1nX2XicCDE6wkfQ8bfw2Fqt+wUlworDw=="/>
-                <enclosure url="https://github.com/malloyjoshua/groove-releases/releases/download/channel/Groove2.0.4-2.0.0.delta" sparkle:deltaFrom="2.0.0" length="330214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xZuCru+QEBQMcz9AMotTzXmktbrZLojajAN/Xk6mn2aWBK6LirbdAw9WhWo0qd4h4HGNjUqrJvN9Vq7ZMWkxCg=="/>
             </sparkle:deltas>
         </item>
     </channel>
